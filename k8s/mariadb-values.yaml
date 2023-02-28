@@ -1,0 +1,8 @@
+mysql:
+  db: ""
+  host: "mariadb"
+  param: ""
+  pass: "changemeplease"
+  port: 3306
+  protocol: ""
+  user: "exporter"
